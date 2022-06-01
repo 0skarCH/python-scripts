@@ -1,8 +1,8 @@
-##########################################################
+#########################################################################
 #Welcome to The early Sunlight! With this script you can order coffee   #
-#and keep evil people like Ben and Dean out of your shop with if-else  #
-#statements. Enjoy your coffee!        Oskar Craenen  -  RedAsh                #
-#########################################################
+#and keep evil people like Ben and Dean out of your shop with if-else   #
+#statements. Enjoy your coffee!        Oskar Craenen  -  RedAsh         #
+#########################################################################
 
 
 import time
